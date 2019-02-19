@@ -1,0 +1,37 @@
+{
+    "extensionName": {
+        "message": "Расширенный поиск"
+    },
+    "extensionDescription": {
+        "message": "Простой поиск с помощью альтернативных поисковых систем в контекстном меню."
+    },
+
+    "openSettingsPageText": {
+        "message": "Настройка..."
+    },
+
+    "contextMenuLegendText": {
+        "message": "Контекстное меню"
+    },
+    "searchEngineDivTitle": {
+        "message": "Показана ли поисковая система в меню"
+    },
+    "resetSettingsText": {
+        "message": "Сбросить"
+    },
+    "resetSettingsTitle": {
+        "message": "Восстановить настройки по умолчанию"
+    },
+    "restoreSettingsText": {
+        "message": "Восстановить"
+    },
+    "restoreSettingsTitle": {
+        "message": "Восстановить сохраненные настройки"
+    },
+    "saveSettingsText": {
+        "message": "Сохранить"
+    },
+    "saveSettingsTitle": {
+        "message": "Сохранить настройки"
+    }
+}
