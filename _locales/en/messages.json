@@ -1,0 +1,37 @@
+{
+    "extensionName": {
+        "message": "Advanced Search"
+    },
+    "extensionDescription": {
+        "message": "Easy search via alternative search engines in the context menu."
+    },
+
+    "openSettingsPageText": {
+        "message": "Configure..."
+    },
+
+    "contextMenuLegendText": {
+        "message": "Context menu"
+    },
+    "searchEngineDivTitle": {
+        "message": "Whether the search engine is shown in the menu"
+    },
+    "resetSettingsText": {
+        "message": "Reset"
+    },
+    "resetSettingsTitle": {
+        "message": "Reset to default settings"
+    },
+    "restoreSettingsText": {
+        "message": "Restore"
+    },
+    "restoreSettingsTitle": {
+        "message": "Restore to saved settings"
+    },
+    "saveSettingsText": {
+        "message": "Save"
+    },
+    "saveSettingsTitle": {
+        "message": "Save settings"
+    }
+}
